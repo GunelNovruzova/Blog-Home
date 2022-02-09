@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #212529;
+    padding: 20px 0;
+}
+header a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: #fff;
+    font-size: 1.25rem;
+  
+}
+header .right a:hover{
+    color:#fff;
+}
+header .right a{
+    color:rgba(255, 255, 255, 0.55);
+    font-size: 16px;
+    transition: .2s;
+}
+#first{
+    padding: 6rem 0;
+}
+#first p{
+    font-size: 20px;
+}
+#second{
+     margin-top: 30px; 
+}
+#second  .new{
+    color: #212121;
+}
+footer p{
+    color:#fff;
+}
